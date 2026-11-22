@@ -4,11 +4,12 @@
 ## Nombre de los alumnos: 
 ### JAIME ALBERTO WALDEMAR MORALES SAENZ
 ### MARCO ISAI OLIVAS CASTAÑEDA
-### BRIAN OMAR SOTO QUINTANA
+### MIRANDA BARRAZA PEREA
 
 ## N.º de control: 25410157
 ## N º de control: 25410165
-## N º de control: 25410134
+## N º de control: 25410165
+## N º de control: 25410144
 
 ## Carrera: Ingeniería en sistemas computacionales
 
